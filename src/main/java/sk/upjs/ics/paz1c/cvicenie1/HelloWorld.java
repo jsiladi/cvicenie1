@@ -10,5 +10,6 @@ public class HelloWorld {
 		System.out.println("Nieco menim este");
 		// komentar
 		
+		// som tvoj collaborant
 	}
 }
