@@ -8,6 +8,7 @@ public class HelloWorld {
 			System.out.println("Git je super");
 		}
 		System.out.println("Nieco menim este");
+		// komentar
 		
 	}
 }
