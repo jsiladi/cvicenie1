@@ -11,5 +11,8 @@ public class HelloWorld {
 		// komentar
 		
 		// som tvoj collaborant, cau
+		
+		// branchujem
+		System.out.println("Novy branch");
 	}
 }
